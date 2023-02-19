@@ -85,7 +85,7 @@ body {
     width: 31px;
     height: 40px;
     transform: translateY(-50%);
-    background-image: url('./../img/icon/material-symbols_location-on-outline.svg');
+    background-image: url('/img/icon/material-symbols_location-on-outline.svg');
     background-repeat: no-repeat;
     }
 
